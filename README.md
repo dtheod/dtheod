@@ -8,8 +8,6 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.py```,``` .r```, ```.sql```
 - 🌱 I’m currently learning docker and TFX
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
-- 😄 Pronouns: He/Him
 - 📝 My personal webste [innoids](https://www.innoids.net)
 
 
