@@ -30,8 +30,6 @@
 
 
 ![Danis github stats](https://github-readme-stats.vercel.app/api?username=dtheod&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dtheod&theme=tokyonight" alt="mystreak"/>
-![Danis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtheod&theme=tokyonight&layout=compact)
 
 
 <!---
