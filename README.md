@@ -1,13 +1,11 @@
 # Hi there I'm Danis <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-
-### 🤵 About Me:
-- 🏦 Currently working as a Data Science Freelancer. 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.py```,``` .r```, ```.sql```
-- 🌱 I’m currently learning docker and TFX
-- 📝 My personal website [innoids](https://www.innoids.net)
+🤵 About Me:
+🏦 Currently working as a Data Science Freelancer.
+🤔 I use daily 
+.py, .r, .sql, Docker, FastAPI, Langchain, Langgraph,
+📝 My personal website innoids
 
 <h1 align="center">Technology Stack</h1>
 
@@ -25,6 +23,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" style="height: 4rem"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mlflow/mlflow-original.svg" style="height: 4rem"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" style="height: 4rem"/>
 </p>
 
 
@@ -40,17 +41,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
-```text
-🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
-🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
-🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% 
-🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
-
-```
 
 
 
- Last Updated on 25/04/2022 17:09:08 UTC
+ Last Updated on 16/10/2025 17:09:08 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
