@@ -24,7 +24,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" style="height: 4rem"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" style="height: 4rem"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" style="height: 4rem"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" style="height: 4rem"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" style="height: 4rem"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="height: 4rem"/>
 </p>
 
 
