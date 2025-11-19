@@ -27,7 +27,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" style="height: 4rem"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" style="height: 4rem"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" style="height: 4rem"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" style="height: 4rem"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" style="height: 4rem"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" style="height: 4rem"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="height: 4rem"/>
 </p>
 
